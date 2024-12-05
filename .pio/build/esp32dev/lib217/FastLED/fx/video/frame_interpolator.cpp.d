@@ -1,0 +1,29 @@
+.pio/build/esp32dev/lib217/FastLED/fx/video/frame_interpolator.cpp.o: \
+ .pio/libdeps/esp32dev/FastLED/src/fx/video/frame_interpolator.cpp \
+ .pio/libdeps/esp32dev/FastLED/src/fx/video/frame_interpolator.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/detail/data_stream.h \
+ .pio/libdeps/esp32dev/FastLED/src/namespace.h \
+ .pio/libdeps/esp32dev/FastLED/src/crgb.h \
+ .pio/libdeps/esp32dev/FastLED/src/chsv.h \
+ .pio/libdeps/esp32dev/FastLED/src/color.h \
+ .pio/libdeps/esp32dev/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/esp32dev/FastLED/src/force_inline.h \
+ .pio/libdeps/esp32dev/FastLED/src/template_magic.h \
+ .pio/libdeps/esp32dev/FastLED/src/ref.h \
+ .pio/libdeps/esp32dev/FastLED/src/scoped_ptr.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/storage/filebuffer.h \
+ .pio/libdeps/esp32dev/FastLED/src/file_system.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/video.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/fx2d.h \
+ .pio/libdeps/esp32dev/FastLED/src/xymap.h \
+ .pio/libdeps/esp32dev/FastLED/src/xmap.h \
+ .pio/libdeps/esp32dev/FastLED/src/lut.h \
+ .pio/libdeps/esp32dev/FastLED/src/allocator.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/fx.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/detail/draw_context.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/detail/transition.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/storage/bytestream.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/frame.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/detail/circular_buffer.h \
+ .pio/libdeps/esp32dev/FastLED/src/math_macros.h \
+ .pio/libdeps/esp32dev/FastLED/src/fx/video/high_precision_interval.h
