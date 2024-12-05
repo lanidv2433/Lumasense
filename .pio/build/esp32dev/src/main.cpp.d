@@ -206,11 +206,8 @@
  .pio/libdeps/esp32dev/FastLED/src/fastspi.h \
  .pio/libdeps/esp32dev/FastLED/src/fastspi_bitbang.h \
  .pio/libdeps/esp32dev/FastLED/src/chipsets.h \
- .pio/libdeps/esp32dev/VoiceRecognitionV3/VoiceRecognitionV3.h \
- C:/Users/rrich/.platformio/packages/framework-arduinoespressif32/cores/esp32/wiring_private.h \
- .pio/libdeps/esp32dev/EspSoftwareSerial/src/SoftwareSerial.h \
- .pio/libdeps/esp32dev/EspSoftwareSerial/src/circular_queue/circular_queue.h \
- .pio/libdeps/esp32dev/EspSoftwareSerial/src/circular_queue/Delegate.h \
+ .pio/libdeps/esp32dev/DHT20/DHT20.h \
+ C:/Users/rrich/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
  .pio/libdeps/esp32dev/PulseSensorPlayground-2.1.1/src/PulseSensorPlayground.h \
  .pio/libdeps/esp32dev/PulseSensorPlayground-2.1.1/src/utility/SelectTimer.h \
  .pio/libdeps/esp32dev/PulseSensorPlayground-2.1.1/src/utility/PulseSensor.h \

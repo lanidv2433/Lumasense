@@ -1,2 +1,4 @@
 FastLED
+robtillaart/DHT20
+amcewen/HttpClient@^2.2
 plerup/EspSoftwareSerial @ ^6.15.0
